@@ -1,0 +1,148 @@
+.affiliation_request {
+    .membership .type {
+        min-height: 185px;
+        display: grid;
+        align-content: center;
+        align-items: center;
+        justify-content: center;
+        border-radius: 24px;
+        text-align: center;
+        position: relative;
+
+        .title,
+        p {
+            font-size: 20px;
+            font-weight: bold;
+            color: #f5862c;
+        }
+
+        p {
+            color: #636363;
+        }
+
+        .price {
+            font-size: 30px;
+            font-weight: bold;
+            color: #028a98;
+        }
+
+        input[type="radio"] {
+            width: 100%;
+            cursor: pointer;
+            height: 100%;
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            opacity: 0;
+        }
+
+        background-color: #a7a7a71a;
+
+        &:has(input[type="radio"]:checked) {
+            border: 1px solid #03030324;
+
+            background: #f5862c14 0% 0% no-repeat padding-box;
+        }
+    }
+
+    .form-style .btn-submit .btn-style {
+        background-color: #028a98;
+        border-color: #028a98;
+        color: #fff;
+
+        &:hover {
+            background-color: #fff;
+            color: #028a98;
+        }
+    }
+
+    .pros {
+        img {
+            width: 25px;
+            height: 25px;
+        }
+
+        .success-card {
+            margin-top: 17px;
+
+            h2 {
+                font-size: 20px;
+                font-weight: 600;
+            }
+
+            span {
+                font-size: 18px;
+                font-weight: normal;
+            }
+        }
+    }
+
+    .for-rigister-sessions-form {
+        margin: 0px;
+        background: #f2f2f2 0% 0% no-repeat padding-box;
+        border: 0.5px solid #70707075;
+        padding: 55px 35px;
+    }
+
+    .form_head {
+        letter-spacing: 0px;
+        color: #000;
+        font-size: 23px;
+        font-weight: bold;
+        padding: 0;
+        margin: 0;
+    }
+
+    .section_title {
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    input[type="checkbox"] {
+        accent-color: #028a98;
+    }
+
+    .status-box {
+        min-height: 100%;
+    }
+
+    .our-story-strip {
+        background-color: rgb(255 222 252 / 60%);
+
+        .upper_title {
+            font-size: 25px;
+            font-weight: bold;
+        }
+
+        .upper_description {
+            font-size: 18px;
+            font-weight: 600;
+        }
+
+        .buttom_title {
+            font-size: 18px;
+            font-weight: 600;
+            color: #028a98;
+        }
+
+        .bottom_description {
+            font-size: 20px;
+            font-weight: 600;
+        }
+    }
+}
+
+.submenu .about{
+     a.sub-link:empty, a.sub-link,ul > :first-child {
+         display: none!important;
+     }
+     ul a.sub-link{
+        display: block!important;
+     }
+     }
+.regulation-general-addemply-page.affiliation_request .performance-evaluation {
+    padding-bottom: 0px !important;
+}
+.custom_navbar .submenu {
+      background-color: #ffff;
+}

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="47.665" height="53.038" viewBox="0 0 47.665 53.038">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.505" cy="0.485" r="3.823" gradientTransform="translate(4.998 -6.011) scale(0.131 0.131)" gradientUnits="objectBoundingBox">
+      <stop offset="0.006" stop-color="#c5c8cb"/>
+      <stop offset="0.414" stop-color="#dee0e1"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.499" gradientTransform="translate(0)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff100"/>
+      <stop offset="0.377" stop-color="#fac10d"/>
+      <stop offset="0.792" stop-color="#f5931a"/>
+      <stop offset="1" stop-color="#f48120"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="0.444" cy="0.088" r="2.005" gradientTransform="translate(5.785) scale(0.52 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.332" stop-color="#fbd2b0"/>
+      <stop offset="0.794" stop-color="#f69849"/>
+      <stop offset="1" stop-color="#f48120"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_179006" data-name="Group 179006" transform="translate(4027 -14074.5)">
+    <g id="Group_178924" data-name="Group 178924" transform="translate(-4027 14074.5)">
+      <path id="Path_40598" data-name="Path 40598" d="M308.039,700.015c0,1.7-10.509,3.071-23.477,3.071s-23.479-1.376-23.479-3.071,10.511-3.07,23.479-3.07S308.039,698.32,308.039,700.015Z" transform="translate(-260.731 -650.048)" fill="url(#radial-gradient)"/>
+      <g id="Group_177958" data-name="Group 177958" transform="translate(0 0)">
+        <path id="Path_40599" data-name="Path 40599" d="M307.982,619a23.833,23.833,0,1,1-23.833-23.832A23.833,23.833,0,0,1,307.982,619Z" transform="translate(-260.317 -595.169)" fill="url(#radial-gradient-2)"/>
+        <path id="Path_40600" data-name="Path 40600" d="M285.221,598.988a22.916,22.916,0,0,1,22.9,22c.011-.3.018-.607.018-.915a22.916,22.916,0,0,0-45.832,0c0,.308.006.613.02.915A22.913,22.913,0,0,1,285.221,598.988Z" transform="translate(-261.389 -596.24)" fill="url(#radial-gradient-3)"/>
+      </g>
+    </g>
+    <text id="_5" data-name="5" transform="translate(-3999.156 14108.438)" fill="#030303" font-size="26" font-family="ElMessiri-Bold, El Messiri" font-weight="700"><tspan x="-14.196" y="0">5</tspan></text>
+  </g>
+</svg>

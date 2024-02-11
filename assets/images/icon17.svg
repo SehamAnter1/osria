@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76.503" height="60.952" viewBox="0 0 76.503 60.952">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-11.328" y1="-14.003" x2="-11.328" y2="-15.065" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#db962b"/>
+      <stop offset="0.055" stop-color="#dd9d2c"/>
+      <stop offset="0.138" stop-color="#e5b230"/>
+      <stop offset="0.239" stop-color="#f2d438"/>
+      <stop offset="0.288" stop-color="#fae83c"/>
+      <stop offset="1" stop-color="#f2a41e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-11.328" y1="-14.354" x2="-11.328" y2="-15.415" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="-11.328" y1="-14.711" x2="-11.328" y2="-15.773" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="-11.328" y1="-15.064" x2="-11.328" y2="-16.126" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="-11.328" y1="-15.418" x2="-11.328" y2="-16.48" xlink:href="#linear-gradient"/>
+    <radialGradient id="radial-gradient" cx="0.502" cy="1.003" r="1" gradientTransform="translate(-0.652) scale(0.5 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0.819" stop-color="#e2e3e4"/>
+      <stop offset="1" stop-color="#626366"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.513" cy="1.022" r="1" gradientTransform="translate(-0.767) scale(0.5 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0.825" stop-color="#626366"/>
+      <stop offset="1" stop-color="#e2e3e4"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_178260" data-name="Group 178260" transform="translate(-615.765 -250.543)">
+    <path id="Path_41592" data-name="Path 41592" d="M705.163,288.571c0,2.138-2.978,3.887-6.621,3.887H654.59c-3.643,0-6.621-1.749-6.621-3.887s2.979-3.887,6.621-3.887h43.951C702.185,284.684,705.163,286.433,705.163,288.571Z" transform="translate(-12.895 -13.671)" fill="url(#linear-gradient)"/>
+    <path id="Path_41593" data-name="Path 41593" d="M705.163,302.208c0,2.138-2.978,3.887-6.621,3.887H654.59c-3.643,0-6.621-1.749-6.621-3.887s2.979-3.888,6.621-3.888h43.951C702.185,298.32,705.163,300.07,705.163,302.208Z" transform="translate(-12.895 -19.131)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_41594" data-name="Path 41594" d="M705.163,315.845c0,2.138-2.978,3.887-6.621,3.887H654.59c-3.643,0-6.621-1.75-6.621-3.887s2.979-3.886,6.621-3.886h43.951C702.185,311.959,705.163,313.709,705.163,315.845Z" transform="translate(-12.895 -24.592)" fill="url(#linear-gradient-3)"/>
+    <path id="Path_41595" data-name="Path 41595" d="M705.163,329.484c0,2.138-2.978,3.887-6.621,3.887H654.59c-3.643,0-6.621-1.75-6.621-3.887s2.979-3.887,6.621-3.887h43.951C702.185,325.6,705.163,327.346,705.163,329.484Z" transform="translate(-12.895 -30.053)" fill="url(#linear-gradient-4)"/>
+    <path id="Path_41596" data-name="Path 41596" d="M705.163,343.121c0,2.138-2.978,3.887-6.621,3.887H654.59c-3.643,0-6.621-1.749-6.621-3.887s2.979-3.887,6.621-3.887h43.951C702.185,339.234,705.163,340.984,705.163,343.121Z" transform="translate(-12.895 -35.513)" fill="url(#linear-gradient-5)"/>
+    <path id="Path_41597" data-name="Path 41597" d="M697.119,309.072a4.387,4.387,0,1,0-8.767,0,4.581,4.581,0,0,0,2.687,4.215l-2.687,8.286h8.767l-2.686-8.286A4.582,4.582,0,0,0,697.119,309.072Z" transform="translate(-29.065 -21.606)" fill="#231f20"/>
+    <g id="Group_178259" data-name="Group 178259" transform="translate(615.765 250.543)">
+      <path id="Path_41598" data-name="Path 41598" d="M636.083,253.931a16.931,16.931,0,0,1,16.933,16.932H656.4a20.32,20.32,0,0,0-40.639,0h3.386A16.931,16.931,0,0,1,636.083,253.931Z" transform="translate(-615.765 -250.543)" fill="url(#radial-gradient)"/>
+      <path id="Path_41599" data-name="Path 41599" d="M638.344,256.193a16.931,16.931,0,0,0-16.931,16.932H624.6a13.746,13.746,0,1,1,27.492,0h3.186A16.931,16.931,0,0,0,638.344,256.193Z" transform="translate(-618.027 -252.805)" fill="url(#radial-gradient-2)"/>
+    </g>
+  </g>
+</svg>

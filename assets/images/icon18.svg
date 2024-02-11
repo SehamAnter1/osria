@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46.111" height="58.971" viewBox="0 0 46.111 58.971">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ef9210"/>
+      <stop offset="1" stop-color="#febf83"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="3.418" y1="14.619" x2="3.418" y2="13.932" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00aa4e"/>
+      <stop offset="0.972" stop-color="#00ad4f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="3.62" y1="15.491" x2="3.62" y2="16.165" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#afe331"/>
+      <stop offset="0.36" stop-color="#738b65"/>
+      <stop offset="1" stop-color="#00a14a"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_178261" data-name="Group 178261" transform="translate(-59.314 -55.861)">
+    <ellipse id="Ellipse_869" data-name="Ellipse 869" cx="11.899" cy="14.226" rx="11.899" ry="14.226" transform="translate(70.099 55.861)" fill="url(#radial-gradient)"/>
+    <path id="Path_41600" data-name="Path 41600" d="M82.37,111.877c-12.734,0-19.179,7.6-19.179,7.6a19.031,19.031,0,0,0-3.878,10.576V135.7a6.012,6.012,0,0,0,5.987,6H99.438a6.011,6.011,0,0,0,5.986-6v-5.643a19.034,19.034,0,0,0-3.878-10.576S95.1,111.877,82.37,111.877Z" transform="translate(0 -26.869)" fill="url(#linear-gradient)"/>
+    <path id="Path_41601" data-name="Path 41601" d="M66.262,121.035a17.742,17.742,0,0,0-4.07,10.4v4.142a6.012,6.012,0,0,0,5.986,6H99.323a6.013,6.013,0,0,0,5.987-6v-4.142a17.744,17.744,0,0,0-4.072-10.4,18.877,18.877,0,0,0-4.513-3.218,27.147,27.147,0,0,0-12.975-3.057C72.065,114.76,66.262,121.035,66.262,121.035Z" transform="translate(-1.38 -28.252)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_41602" data-name="Path 41602" d="M98.553,117.638s-2.067-2.137.71-2.4,1.615,2.072,1.615,2.072l2.324,18.973-3.552,3.5-3.616-3.626Z" transform="translate(-17.614 -28.474)" fill="#231f20"/>
+  </g>
+</svg>

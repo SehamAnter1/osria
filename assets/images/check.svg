@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33.929" height="37.753" viewBox="0 0 33.929 37.753">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.505" cy="0.485" r="3.823" gradientTransform="translate(4.998 -6.011) scale(0.131 0.131)" gradientUnits="objectBoundingBox">
+      <stop offset="0.006" stop-color="#c5c8cb"/>
+      <stop offset="0.414" stop-color="#dee0e1"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.499" gradientTransform="translate(0)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff100"/>
+      <stop offset="0.377" stop-color="#fac10d"/>
+      <stop offset="0.792" stop-color="#f5931a"/>
+      <stop offset="1" stop-color="#f48120"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="0.444" cy="0.088" r="2.005" gradientTransform="translate(5.785) scale(0.52 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.332" stop-color="#fbd2b0"/>
+      <stop offset="0.794" stop-color="#f69849"/>
+      <stop offset="1" stop-color="#f48120"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_177959" data-name="Group 177959" transform="translate(-260.317 -595.169)">
+    <path id="Path_40598" data-name="Path 40598" d="M294.508,699.13c0,1.207-7.481,2.186-16.711,2.186s-16.712-.979-16.712-2.186,7.482-2.185,16.712-2.185S294.508,697.923,294.508,699.13Z" transform="translate(-0.515 -68.394)" fill="url(#radial-gradient)"/>
+    <g id="Group_177958" data-name="Group 177958" transform="translate(260.317 595.169)">
+      <path id="Path_40599" data-name="Path 40599" d="M294.246,612.133a16.964,16.964,0,1,1-16.965-16.964A16.965,16.965,0,0,1,294.246,612.133Z" transform="translate(-260.317 -595.169)" fill="url(#radial-gradient-2)"/>
+      <path id="Path_40600" data-name="Path 40600" d="M278.617,598.46a16.312,16.312,0,0,1,16.3,15.659c.008-.215.013-.432.013-.651a16.312,16.312,0,0,0-32.624,0c0,.219,0,.436.014.651A16.31,16.31,0,0,1,278.617,598.46Z" transform="translate(-261.653 -596.504)" fill="url(#radial-gradient-3)"/>
+      <path id="Path_40601" data-name="Path 40601" d="M287.015,634.4l2.011-5.061,3.574,5.423,9.085-13.255,1.937,6.748L292.824,640Z" transform="translate(-278.258 -612.868)" fill="#c9782e"/>
+    </g>
+  </g>
+</svg>
